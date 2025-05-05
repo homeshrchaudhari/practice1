@@ -3,3 +3,4 @@ read
 if [ $a -gt $b ] && [ &a -gt $c ]; th echo elif [b sathi] th echo else fi
 # leap year
 read -p "enter a valid year" y if (((y%4 == 0 && y%100 !=0) || y%400 == 0 )) th echo yes else not fi
+# prime no for((i=2; i<=$n/2;i++)) do ans=$(( n%i )) if [ $ans -eq 0 ] th ec not prime exit fi done echo pr
